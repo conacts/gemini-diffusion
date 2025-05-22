@@ -1,0 +1,11 @@
+[project]
+name = "gemini-diffusion"
+version = "0.1.0"
+description = "A text-to-text diffusion model using tinygrad."
+authors = ["Your Name <your.email@example.com>"]
+requires-python = ">=3.8"
+
+[tool.uv]
+
+[project.dependencies]
+tinygrad = "*" 
